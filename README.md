@@ -1,4 +1,6 @@
 # A charter for Makers Org NZ
+
+[![Join the chat at https://gitter.im/makersorgnz/monz_charter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/makersorgnz/monz_charter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 An organisation dedicated to building the tools to help grow a thriving maker movement in NZ.
 
 ## Define our understanding of maker movement
